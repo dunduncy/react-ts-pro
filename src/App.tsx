@@ -1,4 +1,4 @@
-// props + ts
+// useRef + ts
 
 type Props = {
   onGetMsg?: (msg:string)=>void
